@@ -15,10 +15,10 @@ Atualmente focado no desenvolvimento de aplicações de alta performance, unindo
 ---
 
 ### 📊 My Coding Journey (WakaTime)
-[![Bruno's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bmb_bezerra&layout=compact&theme=tokyonight)](https://wakatime.com/@bmb_bezerra)
+[![Bruno's WakaTime Stats](https://github-readme-stats-delta-ten-86.vercel.app/api/wakatime?username=bmb_bezerra&layout=compact&theme=tokyonight)](https://wakatime.com/@bmb_bezerra)
 
 ### 🎧 Atualmente ouvindo (Spotify)
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?open)](https://open.spotify.com/user/314zgg5orlrr3euzq2uebuszvtva)
+[![Spotify](https://github-readme-stats-delta-ten-86.vercel.app/api/now-playing?open)](https://open.spotify.com/user/314zgg5orlrr3euzq2uebuszvtva)
 
 ---
 
@@ -31,7 +31,7 @@ Atualmente focado no desenvolvimento de aplicações de alta performance, unindo
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmb-bezerra&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-delta-ten-86.vercel.app//api?username=bmb-bezerra&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 📫 **Conecte-se comigo:**
