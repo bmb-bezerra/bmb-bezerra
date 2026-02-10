@@ -14,14 +14,6 @@ Atualmente focado no desenvolvimento de aplicações de alta performance, unindo
 
 ---
 
-### 📊 My Coding Journey (WakaTime)
-[![Bruno's WakaTime Stats](https://github-readme-stats-delta-ten-86.vercel.app/api/wakatime?username=bmb_bezerra&layout=compact&theme=tokyonight)](https://wakatime.com/@bmb_bezerra)
-
-### 🎧 Atualmente ouvindo (Spotify)
-[![Spotify](https://github-readme-stats-delta-ten-86.vercel.app/api/now-playing?open)](https://open.spotify.com/user/314zgg5orlrr3euzq2uebuszvtva)
-
----
-
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -29,9 +21,11 @@ Atualmente focado no desenvolvimento de aplicações de alta performance, unindo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
-
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-delta-ten-86.vercel.app//api?username=bmb-bezerra&show_icons=true&theme=tokyonight&count_private=true)
+
+### 📊 My Coding Journey (WakaTime)
+[![Bruno's WakaTime Stats](https://github-readme-stats-delta-ten-86.vercel.app/api/wakatime?username=bmb_bezerra&layout=compact&theme=tokyonight)](https://wakatime.com/@bmb_bezerra)
 
 ---
 📫 **Conecte-se comigo:**
