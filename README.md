@@ -1,32 +1,48 @@
-# Olá, me chamo Bruno Bezerra 👋
+# Olá, eu sou Bruno Bezerra 👋
 
-**Mobile Software Engineer | 5+ anos de experiência**
+**Mobile Software Engineer | Flutter & Dart | 5+ anos de experiência**
 
-Atualmente focado no desenvolvimento de aplicações de alta performance, unindo a fluidez do Flutter com a eficiência das ferramentas de IA.
+Desenvolvo aplicações mobile com foco em performance, arquitetura limpa e boa experiência de uso. Tenho experiência sólida com Flutter, Dart e Java, além de usar Python e ferramentas de IA para automação, produtividade e melhoria do fluxo de desenvolvimento.
 
 ---
 
 ### 🧠 Sobre mim
+
 - 📱 Especialista em **Dart & Flutter**.
 - ☕ Background sólido em **Java**.
 - 🐍 Automação e produtividade com **Python**.
-- ⚡ Fluxo de trabalho otimizado via **VS Code** e **Cursor**.
+- 🤖 Uso ferramentas de **IA** para acelerar desenvolvimento, revisão e automação.
+- ⚡ Fluxo de trabalho otimizado com **VS Code** e **Cursor**.
 
 ---
 
-### 🛠 Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🛠 Stack principal
+
+Dart
+Flutter
+Java
+Python
 
 ---
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-delta-ten-86.vercel.app//api?username=bmb-bezerra&show_icons=true&theme=tokyonight&count_private=true)
 
-### 📊 My Coding Journey (WakaTime)
-[![Bruno's WakaTime Stats](https://github-readme-stats-delta-ten-86.vercel.app/api/wakatime?username=bmb_bezerra&layout=compact&theme=tokyonight)](https://wakatime.com/@bmb_bezerra)
+### 🚀 Projetos em destaque
+
+
+| Projeto                                             | Descrição                                                                    | Tecnologias   |
+| --------------------------------------------------- | ---------------------------------------------------------------------------- | ------------- |
+| [FieldOps](https://github.com/bmb-bezerra/FieldOps) | App mobile desenvolvido com foco em performance e experiência do usuário.    | Flutter, Dart |
+| [Nome do projeto](LINK_DO_REPOSITORIO)              | Automação para produtividade, integração de ferramentas ou análise de dados. | Python        |
+| [Nome do projeto](LINK_DO_REPOSITORIO)              | Projeto backend, integração ou solução com base em Java.                     | Java          |
+
 
 ---
-📫 **Conecte-se comigo:**
-[LinkedIn](LINK_DO_SEU_LINKEDIN) | [Portfolio](SEU_SITE_OU_LINKTREE)
+
+### 📈 Estatísticas do GitHub
+
+GitHub Stats
+
+---
+
+### 📫 Contato
+
+[LinkedIn](LINK_DO_SEU_LINKEDIN) • [Portfólio](SEU_SITE_OU_LINKTREE) • [Email](mailto:SEU_EMAIL)
