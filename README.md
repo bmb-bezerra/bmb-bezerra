@@ -17,6 +17,6 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 [LinkedIn](LINK_DO_SEU_LINKEDIN) • [Portfólio](SEU_SITE_OU_LINKTREE) • [Email](mailto:SEU_EMAIL)
