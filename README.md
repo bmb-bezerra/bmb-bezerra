@@ -12,9 +12,8 @@
 
 | Projeto                                             | Descrição                                                                    | Tecnologias   |
 | --------------------------------------------------- | ---------------------------------------------------------------------------- | ------------- |
+| [BenchAI](https://github.com/bmb-bezerra/benchai)   | Site que relaciona benchs de AI com foco no desenvolvimento.                 | Html          |
 | [FieldOps](https://github.com/bmb-bezerra/FieldOps) | App mobile desenvolvido com foco em performance e experiência do usuário.    | Flutter, Dart |
-| [Nome do projeto](LINK_DO_REPOSITORIO)              | Automação para produtividade, integração de ferramentas ou análise de dados. | Python        |
-| [Nome do projeto](LINK_DO_REPOSITORIO)              | Projeto backend, integração ou solução com base em Java.                     | Java          |
 
 ---
 
