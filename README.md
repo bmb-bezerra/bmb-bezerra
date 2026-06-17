@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá!
 
 **Bruno Bezerra | Mobile Software Engineer | Flutter & Dart | 5+ anos de experiência**
 
@@ -19,4 +19,4 @@
 
 ## Contato
 
-[LinkedIn](LINK_DO_SEU_LINKEDIN) • [Portfólio](SEU_SITE_OU_LINKTREE) • [Email](mailto:SEU_EMAIL)
+[LinkedIn](LINK_DO_SEU_LINKEDIN) • [Portfólio](SEU_SITE_OU_LINKTREE) • [Email](mailto:bruno@bmb-mail.com)
